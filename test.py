@@ -3,7 +3,7 @@
 def main():
     try:
         # Define the message
-        message = "Hello, World! v1"
+        message = "Hello, World! v2"
         
         # Print the message to the console
         print(message)
